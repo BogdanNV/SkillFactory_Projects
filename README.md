@@ -25,9 +25,9 @@ Booking - это система интернет-бронирования оте
 ---
 
 ## Используемые библиотеки
-[packets.txt](packets.txt)
+[packages.txt](packages.txt)
 
 ## Установка 
 ```
-pip install -r packets.txt
+pip install -r packages.txt
 ```
